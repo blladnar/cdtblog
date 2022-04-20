@@ -30,6 +30,7 @@ facebook_username: RandallBrown
 
 # Build settings
 theme: jekyll-theme-clean-blog
+remote_theme: StartBootstrap/jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 permalink: pretty
