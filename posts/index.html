@@ -7,9 +7,30 @@ background: '/img/whereAmIHeader.jpg'
 
 {% for tag in site.tags %}
 
-<a href="tag/{{ tag[0] | replace: '//', '/' }}">
+<a data-toggle="collapse" href="#collapse{{ tag[0] | remove: ' ' }}" role="button" aria-expanded="false" aria-controls="collapse{{ tag[0] | remove: ' ' }}">
   <h2 class="post-title">{{ tag[0] }} ({{ tag[1].size }})</h2>
 </a>
+<div class="collapse" id="collapse{{ tag[0] | remove: ' ' }}">
+{% for post in site.posts %}
+{% if post.tags contains tag[0] %}
+<article class="post-preview">
+  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+    <h3 class="post-subtitle">{{ post.title }}</h3>
+    <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
+  </a>
+  <p class="post-meta">Posted by
+    {% if post.author %}
+    {{ post.author }}
+    {% else %}
+    {{ site.author }}
+    {% endif %}
+    on
+    {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
+  </p>
+</article>
+{% endif %}
+{% endfor %}
+</div>
 <hr>
 {% endfor %}
 
