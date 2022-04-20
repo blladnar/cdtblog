@@ -2,7 +2,7 @@
 layout: post
 title:  "Wyoming 2"
 subtitle: "This is the post subtitle"
-date:   2022-04-13 17:05:54 -0700
+date:   2022-04-14 17:05:54 -0700
 background: '/img/post1Header.jpg'
 mile: 6
 tag: "Wyoming"

@@ -27,10 +27,12 @@ layout: default
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
 
-        {% assign sorted = site.posts | sort: 'date' | reverse  %}
+        {% if site.posts.size > 5 %}
+        {% assign sorted = site.posts | sort: 'date' %}
         {% for post in sorted reversed limit:1 %}
           <a href="{{ post.url }}">Start from the beginning?</a>
         {% endfor %}
+        {% endif %}
         {{ content }}
 
         <!-- Home Post List -->
