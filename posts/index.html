@@ -1,0 +1,114 @@
+---
+layout: page
+title: Where Am I?
+description: Check out where I am on the map or by state.
+background: '/img/whereAmIHeader.jpg'
+---
+
+{% for tag in site.tags %}
+{{ tag[0] }}<br/>
+{% endfor %}
+
+<style>
+  /* Always set the map height explicitly to define the size of the div
+   * element that contains the map. */
+  #map {
+    height: 500px;
+  }
+</style>
+
+<div id="map"></div>
+
+<script>
+var currentInfoWindow = null
+
+var mileageData = {
+{% for post in site.posts %}
+  {% if post.latitude and post.longitude %}
+    "{{ post.mile }}": {
+      "lat": {{ post.latitude }},
+      "lng": {{ post.longitude }}
+    },
+  {% endif %}
+{% endfor %}
+}
+
+var postInfo = {
+{% for post in site.posts %}
+{% if post.mile %}
+   "{{ post.mile }}": {"title": "{{ post.title }}",
+                       "url": "{{ post.url }}",
+                       "subtitle": "{{ post.subtitle }}",
+                       "mile": "{{ post.mile }}",
+                       "date": "{{ post.date | date: "%B %-d, %Y" }}"
+                     },
+{% endif %}
+{% endfor %}
+}
+
+      function initMap() {
+        var mileageKeys = Object.keys(mileageData)
+
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 6,
+          center: mileageData[mileageKeys[mileageKeys.length-1]],
+          mapTypeId: 'terrain'
+        });
+
+
+        for (key of mileageKeys) {
+          var title = postInfo[key]["title"]
+          var marker = new google.maps.Marker({
+            position: mileageData[key],
+            map: map,
+            title: title,
+            url: postInfo[key]["url"],
+            subtitle: postInfo[key]["subtitle"],
+            mile: postInfo[key]["mile"],
+            date: postInfo[key]["date"]
+          })
+
+          if (key == mileageKeys[mileageKeys.length-1]) {
+            var content = "<div style='cursor: pointer' onclick=\"window.location ='" + marker.url + "'\"><center><h3>" + marker.title + "</h3>"
+            content += marker.subtitle + "<br/>"
+            content += "<b>Mile: " + marker.mile + "</b><br/>"
+            content += marker.date
+            content += "</center></div>"
+
+            var infowindow = new google.maps.InfoWindow({
+              content: content
+            });
+
+            infowindow.open(map, marker);
+            currentInfoWindow = infowindow;
+          }
+
+          google.maps.event.addListener(marker, 'click', function() {
+
+            if(currentInfoWindow) {
+              currentInfoWindow.close()
+            }
+
+            var content = "<div style='cursor: pointer' onclick=\"window.location ='" + this.url + "'\"><center><h3>" + this.title + "</h3>"
+            content += this.subtitle + "<br/>"
+            content += "<b>Mile: " + this.mile + "</b><br/>"
+            content += this.date
+            content += "</center></div>"
+
+            var infowindow = new google.maps.InfoWindow({
+              content: content
+            });
+
+
+            infowindow.open(map, this);
+
+            currentInfoWindow = infowindow
+          });
+        }
+
+
+      }
+    </script>
+<script
+src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvhO8v5BhRc2A--LnfC_8e7L3UTzOziSk&callback=initMap" async defer>
+</script>
