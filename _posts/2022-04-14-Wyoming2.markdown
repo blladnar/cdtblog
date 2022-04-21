@@ -8,4 +8,5 @@ mile: 6
 tag: "Wyoming"
 latitude: 38.009999999999998
 longitude: -116.67100000000001
+altitude: 13000
 ---
