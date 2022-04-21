@@ -27,10 +27,10 @@ layout: default
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
 
-        {% if site.posts.size > 5 %}
+        {% if site.posts.size > 10 %}
         {% assign sorted = site.posts | sort: 'date' %}
         {% for post in sorted reversed limit:1 %}
-          <a href="{{ post.url }}">Start from the beginning?</a>
+          Just getting here? <a href="{{ post.url }}">Start from the beginning.</a>
         {% endfor %}
         {% endif %}
         {{ content }}
