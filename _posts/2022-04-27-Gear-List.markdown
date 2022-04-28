@@ -1,0 +1,35 @@
+---
+layout: post
+title: Gear List
+subtitle: (Almost) Everything I’ll need for 3100 Miles
+author: Randall
+date: 2022-04-27 17:10:28
+background: /img/Gear-ListHeader.jpg
+tag: Other
+latitude: 47.68397092587252
+longitude: -122.37585499750062
+---
+In the five years since I hiked the PCT I've learned a lot about backpacking.
+With that knowledge I've managed to shave almost 3 pounds off my base weight.
+The biggest weight differences will be in my new sleeping bag, backpack, and tent.
+
+This gear list should work for almost all of the trail, but I may need to add some
+things as I get farther north. Most notably some snow gear for Colorado like an
+ice axe and microspikes.
+
+My puffy jacket and bear proof bag might be overkill for the start. I could save
+a good amount of weight by switching the jacket for a fleece or upgrading to a
+down jacket. I think I can justify it because it doubles as an amazing pillow, but
+I'm still undecided on whether or not I'll upgrade to something lighter.
+
+The bear bag is pretty heavy for a food bag and only really needed for Grizzly
+country, but I mostly just want to avoid the hassle of having it sent out to me.
+It also will provide better rodent protection than a regular stuff sack.
+
+The sandals are pretty heavy for camp shoes, but I can hike in them and I've
+really enjoyed them on other backpacking trips. They'll be wonderful for stops
+in town as well.
+
+<img src="/img/Gear List0.jpg" class="img-fluid">
+
+<script src="https://lighterpack.com/e/znwh6t"></script><div id="znwh6t"></div>
