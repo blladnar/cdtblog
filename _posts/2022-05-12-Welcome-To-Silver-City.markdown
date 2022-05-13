@@ -25,15 +25,15 @@ Hiking Down the canyon, a short side trip up the ravine found some water flowing
 
 We followed the wash out to a highway and saw some really cool rock formations. A few miles after that was our last water source.
 
-<img src=“/img/Welcome To Silver City2.jpg” class=“img-fluid”>
+<img src="/img/Welcome To Silver City2.jpg" class=“img-fluid”>
 
-<img src=“/img/Welcome To Silver City5.jpg” class=“img-fluid”>
+<img src="/img/Welcome To Silver City5.jpg" class=“img-fluid”>
 
 That trough was by far the biggest so far on the trail. It was a bit dirty, but better than many I’ve seen. As we filtered water, a couple of our friends got picked up by someone stocking a water cache. Turns out one of them had Covid. 🙃
 
 The kicker to this day was a 12 mile road walk. For whatever reason, there aren’t any trails connecting Silver City and the previous part of the trail. You have to go north *somehow* and the highway is the “official” way.
 
-<img src=“/img/Welcome To Silver City4.jpg” class=“img-fluid”>
+<img src="/img/Welcome To Silver City4.jpg" class=“img-fluid”>
 
 It’s pretty shocking how many beer cans there were on the side of the road. I guess anyone who drinks and drives probably litters too.
 
