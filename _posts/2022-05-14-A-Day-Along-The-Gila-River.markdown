@@ -34,6 +34,8 @@ The landscape here is completely different from almost anywhere I’ve been. It�
 
 After reaching the river the trail turned upstream, sometimes crossing, and sometimes following, the river. There are no bridges and we ended up crossing at least 50 times. I stopped counting after about 25.
 
+At one point we came up on a couple that was making camp. They were pretty far out on the trail and weren’t expecting to see anyone else. I know this because they were naked.
+
 <img src="/img/A Day Along The Gila River4.jpg" class="img-fluid">
 
 We had a pretty ambitious plans for the day. Our next resupply was 29 miles away. It’s a sort of general store/trading post along the river called Doc Campbell’s. It’s next to some developed hot springs as well. We didn’t think we’d make it there by close so we chose a spot about 3 miles away from Doc Campbell’s.
