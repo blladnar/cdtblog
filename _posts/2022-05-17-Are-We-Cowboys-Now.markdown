@@ -9,6 +9,7 @@ tag: New Mexico
 latitude: 33.73670437376363
 longitude: -108.47506893808811
 altitude: 8804
+mile: 6
 ---
 I never expected it to get below freezing in New Mexico, but my frozen shoes and socks proved otherwise. They were so frozen I couldn’t even put my shoes on and I hiked in my sandals for a couple miles.
 
