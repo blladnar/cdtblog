@@ -1,0 +1,26 @@
+---
+layout: post
+title: Fore!
+subtitle: A zero day in Grants
+author: Randall
+date: 2022-05-26 22:56:02
+background: /img/ForeHeader.jpg
+mile: 525
+tag: New Mexico
+latitude: 35.15481046912371
+longitude: -107.84260224450428
+altitude: 6443
+---
+We kinda screwed up and didn’t buy our tickets to Albuquerque in time. So we’re going tomorrow at 6 am. That means we had a whole day off.
+
+We headed out to get some breakfast and then took a bus to the local golf course. We had to rent clubs, but it was actually really fun.
+
+<img src="/img/Fore0.jpg" class="img-fluid">
+
+I shot a 48 and the winner was Elliot with a 42. Not a bad day. I used a golf ball I found in silver city and carried the whole way. Unfortunately I lost it on the 9th and final hole.
+
+When we got back to the hostel there was a whole crew there. Everyone we left at the toaster house (and more) had showed up. 
+
+<img src="/img/Fore1.jpg" class="img-fluid">
+
+Unfortunately we have to wake up early and get to the REI in Albuquerque, then the post office in Chama so we can hike out on Sunday.
