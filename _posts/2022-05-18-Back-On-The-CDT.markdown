@@ -29,7 +29,7 @@ There really isn’t a lot to report about today. I had to carry a ton of water 
 
 That pond was our second water source for the day. It was pretty yellow and gross, so I only cooked with it since then it would be boiled as well as filtered.
 
-<img src="/img/Back On The CDT3.jpg" class=“img-fluid">
+<img src="/img/Back On The CDT3.jpg" class="img-fluid">
 
 Here’s a photo from near the end of the day. Funnily enough, we’re on another alternate route again.
 
