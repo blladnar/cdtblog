@@ -11,7 +11,7 @@ latitude: 38.03282708423087
 longitude: -107.30844097367532
 altitude: 8674
 ---
-Today was a pretty simple day. Beyond the normal resupply chores, all I needed to do was relax.
+Today was a pretty simple day. Beyond the normal resupply chores, all I needed to do was relax. 
 
 First off was the post office. I decided to ship my ice axe and micro spikes ahead to the next town since they probably won’t be needed. If they still aren’t needed in the next section, the post office can simply send the package forward.
 
