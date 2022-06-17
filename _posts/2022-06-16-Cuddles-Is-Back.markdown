@@ -23,7 +23,7 @@ He did a small resupply at the Monarch Pass store and we shared our stories from
 
 Eventually we kept hiking and enjoyed some pretty awesome views along the Collegiate West route. 
 
-Eventually we got to camp at Hancock Lake and I made my dinner. Flamin Hot Cheetos Mac and Cheese. It looked insane.
+Eventually we got to camp at Hancock Lake and I made my dinner. Flamin Hot Cheetos Mac and Cheese. I wouldn’t normally talk about the camp food I made, but this really didn’t look like something I should eat.
 
 <img src="/img/Cuddles Is Back1.jpg" class="img-fluid">
 
