@@ -49,4 +49,4 @@ Sure enough, after about 5 minutes huddled under a tree, the rain slowed enough 
 
 We made it to the lakes and found a spot to camp. As we were setting up it started raining again. I hurried and set up my tent and dove inside. Instead of cooking dinner, I just ate most of my leftover snacks. We’ll get food in town tomorrow.
 
-This is really one of the first times I’ve had to deal with serious rain on a trail. The forecast calls for more rain tomorrow so I’m not sure what we’ll do. We weren’t planning on staying in Twin Lakes, but it would be nice to dry out our gear.
+This is really one of the first times I’ve had to deal with serious rain on a trail. The forecast calls for more rain tomorrow so I’m not sure what we’ll do. We weren’t planning on staying in Twin Lakes, but it would be nice to dry out our gear. 
