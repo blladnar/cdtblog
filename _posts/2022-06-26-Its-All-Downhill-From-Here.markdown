@@ -43,4 +43,4 @@ With service at the highway we determined the rain should stop in a couple hours
 
 The lake is a little off the trail, but we got there very early. This is one of our shortest days, but 14ers can really take a lot out of you. It was also nice to give our stuff a chance to dry. It’s still cloudy and cold, so it didn’t dry much, but at least the floor of my tent isn’t wet.
 
-We should be able to make it to Winter Park tomorrow. To get there we need to go over James Peak, a mountain I climbed one day before work when Meghan and I were moving back to Seattle. Last time I summited I was totally fogged in. Maybe tomorrow will be better.
+We should be able to make it to Winter Park tomorrow. There’s still some climbing, but it shouldn’t be too bad.
