@@ -27,7 +27,7 @@ We made it to the top about half an hour before the weather called for possible 
 
 <img src="/img/Its All Downhill From Here2.jpg" class="img-fluid">
 
-At the top we were greeted by lots of people. A few CDT hikers we hadn’t seen in awhile and plenty of day hikers just looking to bay a 14er. This is the highest the trail will go and probably the highest we’ll go too.
+At the top we were greeted by lots of people. A few CDT hikers we hadn’t seen in awhile and plenty of day hikers just looking to bag a 14er. This is the highest the trail will go and probably the highest we’ll go too.
 
 On the way down it started to hail and thunder. Eventually it would turn to rain and we all huddled under a tree at the trailhead. Next up was a road walk down to I-70 where we would meet up with a bike path and eventually crossing under the interstate and go up another trailhead.
 
