@@ -33,7 +33,7 @@ I tried to take breaks often, but there wasn’t many good places. It’s very a
 
 <img src="/img/Day 1 on the CDT3.jpg" class="img-fluid">
 
-After pulling away from my shuttle group, I met up with two hikers from a different shuttle who had about a bit of a head start on the day. They were under one of the only shade trees for miles with two guys from Florida. The Florida men had been out there for about 3 days, kinda wandering from water source to water source. They seemed a little out of their element with huge backpacks and little to no water. One of the guys I had just met actually helped them out with some extra water.
+After pulling away from my shuttle group, I met up with two hikers from a different shuttle who had a bit of a head start on the day. They were under one of the only shade trees for miles with two guys from Florida. The Florida men had been out there for about 3 days, kinda wandering from water source to water source. They seemed a little out of their element with huge backpacks and little to no water. One of the guys I had just met actually helped them out with some extra water.
 
 I left the shade tree with them and we hiked for awhile longer. One was from Seattle and the other had just finished up a season working at a ski resort in Colorado.
 
