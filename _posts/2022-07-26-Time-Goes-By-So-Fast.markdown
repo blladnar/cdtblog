@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Time Goes By So Fast
-subtitle: When the only thing to do it hike
+subtitle: When the only thing to do is hike
 author: Randall
 date: 2022-07-26 21:48:24
 background: /img/Time-Goes-By-So-FastHeader.jpg
