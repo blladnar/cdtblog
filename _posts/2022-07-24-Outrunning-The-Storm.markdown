@@ -23,7 +23,7 @@ As I was passing Shadow Lake I saw some move t out of the corner of my eye and n
 
 <img src="/img/Outrunning The Storm1.jpg" class="img-fluid">
 
-It’s a porcupine! It’s spines didn’t look very threatening until it turned around and showed me it’s butt. I guess that’s where the sharp ones are. This is the first porcupine I’ve seen while backpacking. I used to see them in Michigan occasionally, but I don’t think I’ve seen one since moving.
+It’s a porcupine! Its spines didn’t look very threatening until it turned around and showed me it’s butt. I guess that’s where the sharp ones are. This is the first porcupine I’ve seen while backpacking. I used to see them in Michigan occasionally, but I don’t think I’ve seen one since moving.
 
 This section of trail is one I did last summer on my failed high route attempt. The CDT sorta drops out of the mountains a little, but you can see them off in the distance.
 
