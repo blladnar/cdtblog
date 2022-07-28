@@ -27,11 +27,11 @@ It’s a porcupine! Its spines didn’t look very threatening until it turned ar
 
 This section of trail is one I did last summer on my failed high route attempt. The CDT sorta drops out of the mountains a little, but you can see them off in the distance.
 
-<img src="/img/Outrunning The Storm3.jpg" class="img-fluid">
+<img src="/img/Outrunning The Storm2.jpg" class="img-fluid">
 
 Eventually the trail made it’s way back to some forest and hillier terrain. It was about this time I noticed a thunderstorm brewing.
 
-<img src="/img/Outrunning The Storm2.jpg" class="img-fluid">
+<img src="/img/Outrunning The Storm3.jpg" class="img-fluid">
 
 I spent the next few hours trying to keep ahead of it. I always seemed to be right on the edge, sometimes getting some rain, sometimes some sun. At one point some pretty large hail fell.
 
@@ -41,19 +41,19 @@ Around this time I was thinking about how few people I had seen today. Once leav
 
 I eventually made it up over the first pass and it seemed I had beaten the storm. When I looked back from the second and third passes I saw white fluffy clouds over a dark scary sky, but it had stayed right there, not coming any further. I thought about camping after the second one but pressed on and was rewarded with this.
 
-<img src="/img/Outrunning The Storm6.jpg" class="img-fluid">
+<img src="/img/Outrunning The Storm4.jpg" class="img-fluid">
 
 This huge lake basin is one of the most incredible places I’ve ever seen. It was totally worth all that running up mountains at the end of the day to get this place all to myself. None of those other people I saw made it this far. There was even a nice breeze to keep the mosquitoes at bay while I hung out at
 Camp.
 
 Remember those freeze dried strawberries? Since I had some extra time at camp I did an experiment. I lost the water flavoring I bought at the store so I thought I’d try making some strawberry water.
 
-<img src="/img/Outrunning The Storm4.jpg" class="img-fluid">
+<img src="/img/Outrunning The Storm5.jpg" class="img-fluid">
 
 It didn’t work too well. The water tastes a bit like strawberries, but just barely. I think tomorrow I’m gonna try my Sour Patch Watermelons in a drink. They’re like, made of sugar, so I bet they’ll be good.
 
 The breeze lasted long enough for me to cook dinner outside my tent. Then the mosquitoes swarmed while I ate and cleaned up. Then the sun set and I was treated to this view.
 
-<img src="/img/Outrunning The Storm5.jpg" class="img-fluid">
+<img src="/img/Outrunning The Storm6.jpg" class="img-fluid">
 
 I still can’t believe I’m the only one out here. Sometimes it pays to walk the extra mile.
