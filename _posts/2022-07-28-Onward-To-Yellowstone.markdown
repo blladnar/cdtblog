@@ -21,7 +21,7 @@ After getting a nice big breakfast and taking full advantage of the free refills
 
 The trail today started off a little rough, but quickly became beautiful. The mountains have changed dramatically and they remind me much more of the northern Rockies in Glacier and Canada.
 
-I passed a cool little resort that had a ton of horses. I saw a few snow cars parked behind a barn too, so maybe they do some fun winter stuff like cat skiing. My winter road trip plans keep getting longer.
+I passed a cool little resort that had a ton of horses. I saw a few snow cats parked behind a barn too, so maybe they do some fun winter stuff like cat skiing. My winter road trip plans keep getting longer.
 
 <img src="/img/Onward To Yellowstone1.jpg" class="img-fluid">
 
