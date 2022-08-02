@@ -6,7 +6,7 @@ author: Randall
 date: 2022-08-01 21:22:19
 background: /img/Welcome-To-IdahoHeader.jpg
 mile: 2015
-tag: Montana
+tag: Idaho
 latitude: 44.483078015078306
 longitude: -111.11659412282623
 altitude: 8083
