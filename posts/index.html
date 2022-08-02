@@ -15,7 +15,7 @@ background: '/img/whereAmIHeader.jpg'
 {% if post.tags contains tag[0] %}
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-    <h3 class="post-subtitle">{{ post.title }}</h3>
+    <h3 class="post-title">{{ post.title }}</h3>
     <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
   </a>
   <p class="post-meta">Posted by
