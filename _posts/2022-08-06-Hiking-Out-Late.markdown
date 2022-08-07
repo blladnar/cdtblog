@@ -6,7 +6,7 @@ author: Randall
 date: 2022-08-06 21:16:16
 background: /img/Hiking-Out-LateHeader.jpg
 mile: 2142
-tag: Montana
+tag: Idaho
 latitude: 44.49270869609387
 longitude: -112.35636167238685
 altitude: 7563
