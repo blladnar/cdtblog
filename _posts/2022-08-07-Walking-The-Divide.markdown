@@ -40,3 +40,5 @@ So far this has worked really well. A 35 mile day is daunting. Hiking an hour at
 I’ve also tried to restrict listening to music, books, and podcasts. If I’m bored, I’ll wait until the next hour to start something. This makes the day go faster and often I’ll be able to go a few hours before starting something.
 
 Thru hiking is as much a mental game as it is a physical one. Since I’ve been hiking alone so much I’ve spent a lot of time in my head. So far I think that’s been a good thing!
+
+Oh yeah, remember how I said that plastic bag should keep my stuff dry? It didn’t. I pulled my tent out to dry at lunch but didn’t think much of the other stuff. Everything was surprisingly wet when I pulled it out tonight. It dried enough before I went to sleep and my body heat should do the rest overnight. Lesson learned. Wet tents go outside your pack.
