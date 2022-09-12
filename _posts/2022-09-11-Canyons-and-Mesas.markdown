@@ -21,7 +21,7 @@ I didn’t really plan ahead for this return trip so I didn’t sent a box. I al
 
 <img src="/img/Canyons and Mesas1.jpg" class="img-fluid">
 
-I’m really glad I took the CDT. It was spectacular and there was even pretty good cell phone service! Staring at my phone for awhile cost me some miles, but it was nice to have a little connectivity.
+I’m really glad I took the CDT. It was spectacular and there was even pretty good cell phone service! Staring at my phone for awhile cost me some miles, but it was nice to have a little connectivity. While I was up there I saw a southbound hiker. He was the first I saw coming from Canada. He told me he biked most of Colorado and that’s how he got down here so fast. He also said he hasn’t seen any other hikers in about a month. He’s the 4th I’ve seen in a few days. They must all just be hiking at the same pace.
 
 As I dropped down off the mesa, the clouds around me grew dark and thunder started rumbling. Around 6 pm it started to sprinkle and then eventually downpour, including hail. Thankfully there were trees around so I hid in a group of them with my umbrella and stayed pretty dry. It died down and I kept hiking. There was still a pretty major problem.
 
